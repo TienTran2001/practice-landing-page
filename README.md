@@ -50,4 +50,4 @@
         Courses.js
 ```
 
-**`Project preview ->`** [practice landing page](https://duckduckgo.com).
+**`Project preview ->`** [practice landing page](https://practice-landing-page-beryl.vercel.app/).
